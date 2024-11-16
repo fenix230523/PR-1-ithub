@@ -32,5 +32,11 @@ namespace WpfApp1
             this.Close();
 
         }
+
+        
+        private void BtnClear_Click(object sender, RoutedEventArgs e)
+        {
+            
+        }
     }
 }
